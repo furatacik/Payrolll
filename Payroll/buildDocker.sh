@@ -1,1 +1,1 @@
-docker build -t payroll:3.0 .
+docker build -t payroll:3.0
